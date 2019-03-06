@@ -224,3 +224,19 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
     - [https://sos1819-12.herokuapp.com/api/v1/my-awsone-resource-1/docs](https://datosmacro.expansion.com/energia-y-medio-ambiente/emisiones-co2) (developed by [Antonio Escobar Núñez](https://github.com/Escobar1993))
     - [https://sos1819-12.herokuapp.com/api/v1/my-awsone-resource-2/docs](https://datosmacro.expansion.com/demografia/esperanza-vida?anio=2015) (developed by [Alberto Jiménez Marín](https://github.com/albjimmar1))
     - [https://sos1819-12.herokuapp.com/api/v1/my-awsone-resource-3/docs](https://datosmacro.expansion.com/mercado-laboral/salario-medio) (developed by [Student 3](https://github.com/404))
+    
+========    
+    
+## SOS1819-13
+
+- **Team**
+  - [Diego Ruiz Pérez](https://github.com/dieruiper)
+  - [Student 2](https://github.com/404)
+  - [Student 3](https://github.com/404)
+- **Project description**: Analisis de los jugadores canteranos, federados y los que llegan finalmente a jugador profesional de futbol
+- **Repository**: [gti-sos/SOS1819-13](https://github.com/gti-sos/SOS1819-13)
+- **URL**: http://sos1819-13.herokuapp.com/
+-  **APIs**:
+    - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-1/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-1/docs) (developed by [Student 1](https://github.com/404))
+    - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-2/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-2/docs) (developed by [Student 2](https://github.com/404))
+    - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs) (developed by [Student 3](https://github.com/404))
